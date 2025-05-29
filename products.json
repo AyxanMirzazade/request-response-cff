@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Qələm", "price": 1.2, "quantity": 100 },
+  { "id": 2, "name": "Dəftər", "price": 2.5, "quantity": 50 },
+  { "id": 3, "name": "Çanta", "price": 18.0, "quantity": 20 },
+  { "id": 4, "name": "Rəsm albomu", "price": 3.0, "quantity": 30 },
+  { "id": 5, "name": "Pozan", "price": 0.5, "quantity": 200 },
+  { "id": 6, "name": "Qələmqabı", "price": 5.5, "quantity": 15 },
+  { "id": 7, "name": "Xətkeş", "price": 1.0, "quantity": 100 },
+  { "id": 8, "name": "Yapışqan", "price": 2.0, "quantity": 25 },
+  { "id": 9, "name": "Karandaş", "price": 1.3, "quantity": 80 },
+  { "id": 10, "name": "Sulu boya", "price": 4.8, "quantity": 12 }
+]
